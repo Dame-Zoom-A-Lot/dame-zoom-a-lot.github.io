@@ -1,0 +1,15 @@
+.appSource {
+    display: flex;
+    justify-content: center;
+}
+
+.instructions {
+    margin: 5%;
+}
+
+.mainContainer {
+    margin: 1% 0;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
