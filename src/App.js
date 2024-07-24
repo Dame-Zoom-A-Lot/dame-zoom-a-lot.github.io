@@ -30,7 +30,11 @@ function App() {
 
         <h2>How to use this</h2>
         <ol>
-          <li>Create a workskin using the beginning of <a href="https://archiveofourown.org/works/18844690">selfishlaundry's instructions</a></li>
+          <li>Create a workskin using the beginning of 
+            <a href="https://archiveofourown.org/works/18844690"> selfishlaundry's instructions </a>
+            but, paste in <a href="https://archiveofourown.org/works/57623512"> this css </a> instead. 
+            It fixes a minor bug that was making the first message overlap into the header
+          </li>
           <li>Set the phone owner's name, and the contact name</li>
           <li>Type the text message in this format 
             <br /> Phone Owner: Hello 

@@ -22,7 +22,6 @@ const ProcessedTextVisuals = ({textInput, phoneOwner, contactName}) => {
     const rawHtml = `
     <div class="phone">
         <p class="body">
-        <br />
         <span class="header">${contactName !== '' ? contactName : 'Placeholder Contact Name'}</span>
         <br />
         ${textStrings}
